@@ -12,3 +12,5 @@ En esta primera actividad los alumnos deberán de realizar las siguientes tareas
   | ------------------|------- |
   |   Nevera          |  24
   | ------------------|------- |
+  
+3. Cuando acabes enviame un issue de finalziación.
