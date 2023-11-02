@@ -8,7 +8,7 @@ En esta primera actividad los alumnos deberán de realizar las siguientes tareas
      ...
 2. Hacer una tabla con los electrodomésticos y al lado el número de horas de uso de cada uno:
 
-   Electrodomésticos | Horas
-   ------------------|-------
-     Nevera          |  24
-   ------------------|-------
+  | Electrodomésticos | Horas  |
+  | ------------------|------- |
+  |   Nevera          |  24
+  | ------------------|------- |
